@@ -1,3 +1,4 @@
-Documentação.
-Passo 1.gi
-Passo 2.
+Descrição:
+Sistema desenvolvimento para 
+fins acedêmicos relacionados
+a um sistema CRM.
